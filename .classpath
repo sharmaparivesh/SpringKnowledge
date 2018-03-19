@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Astric/Desktop/projectjars/impLib/newLibs/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astric/Desktop/projectjars/impLib/newLibs/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astric/Desktop/projectjars/impLib/newLibs/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astric/Desktop/projectjars/impLib/newLibs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astric/Desktop/projectjars/impLib/newLibs/spring-beans-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astric/Desktop/projectjars/impLib/newLibs/spring-build-src-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astric/Desktop/projectjars/impLib/newLibs/spring-context-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astric/Desktop/projectjars/impLib/newLibs/spring-context-support-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astric/Desktop/projectjars/impLib/newLibs/spring-core-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astric/Desktop/projectjars/impLib/newLibs/spring-expression-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astric/Desktop/projectjars/impLib/newLibs/spring-instrument-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
